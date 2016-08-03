@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hi everybody!
+ 
+ Im Jomer alo
